@@ -1,0 +1,11 @@
+p.conheça {
+     font-weight: bold;
+     text-align: left;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-transform: uppercase;
+     color: chocolate;
+}
+
+p.bairro-passagem{
+    font-weight: bold;
+}
